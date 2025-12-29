@@ -20,5 +20,5 @@ rag-chatbot/
 ├── README.md
 ├── .gitignore
 └── data/
-└── document.pdf
+└── Brochure_for_filling_application.pdf
 
